@@ -1,0 +1,4 @@
+name: BlockEffects
+version: '1.0-SNAPSHOT'
+main: org.argameplay.blockeffects.BlockEffects
+api-version: 1.19
